@@ -2,6 +2,9 @@
 
 This is a password validator component.
 
+<img width="853" alt="image" src="https://github.com/JulianaBurzlaff/password-validator/assets/65931231/b04602b7-d95a-4fe4-9db7-9976a6258333">
+
+
 ## Tech Stack
 
 - [TypeScript](https://www.typescriptlang.org/)
@@ -41,6 +44,10 @@ Now open [http://localhost:3000](http://localhost:3000) with your browser to see
 - `dev`: runs the application on `localhost:3000`
 - `build`: creates the production build version
 - `test`: runs jest to test all components and pages
+
+## Demo
+
+Here is a DEMO[https://password-validator-rosy.vercel.app/] for testings!
 
 ## Adding validations
 
