@@ -18,7 +18,7 @@ This is a password validator component.
 First, clone this repository in you machine by running:
 
 ```bash
-git clone https://github.com/JulianaBurzlaff/qventus-challenge.git
+git clone https://github.com/JulianaBurzlaff/password-validator.git
 ```
 
 Then, navigate to the project folder and install the dependencies by running:
