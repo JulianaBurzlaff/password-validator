@@ -45,7 +45,7 @@ Now open [http://localhost:3000](http://localhost:3000) with your browser to see
 
 ## Adding validations
 
-You can add as much validation as you want, just add the label and the validation function in the `src/utils/passwordReqs/index.ts`file.
+You can add as much validations as you want, just add the label and the validation function in the `src/utils/passwordReqs/index.ts`file.
 
 Do not forget to add tests for your new validation on the `src/utils/passwordReqs/index.test.ts`file.
 
