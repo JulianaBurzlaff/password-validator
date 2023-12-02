@@ -19,7 +19,7 @@ This is a password validator component developed as a Take Home Assessment for Q
 First, clone this repository in you machine by running:
 
 ```bash
-git clone 
+git clone https://github.com/JulianaBurzlaff/qventus-challenge.git
 ```
 
 Then, navigate to the project folder and install the dependencies by running:
@@ -42,6 +42,11 @@ Now open [http://localhost:3000](http://localhost:3000) with your browser to see
 - `dev`: runs the application on `localhost:3000`
 - `build`: creates the production build version
 - `test`: runs jest to test all components and pages
+
+## Adding validations
+
+You can add as much validation as you want. You just need to add the label and the validation function in the `src/utils/passwordReqs/index.ts`file.
+Do not forget to add tests for your new validation on the `src/utils/passwordReqs/index.test.ts`file.
 
 ## Deploy 
 
