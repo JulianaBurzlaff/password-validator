@@ -49,9 +49,6 @@ You can add as much validations as you want, just add the label and the validati
 
 Do not forget to add tests for your new validation on the `src/utils/passwordReqs/index.test.ts`file.
 
-## Deploy 
-
-Here is a DEMO for testings!
 
 ## Next Steps
 
