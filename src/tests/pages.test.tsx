@@ -1,6 +1,6 @@
 import '@testing-library/jest-dom/extend-expect'
 import { render, screen } from '@testing-library/react';
-import Index from './index';
+import Index from '../pages';
 
 describe('Password Component page', () => {
   it('should have a title and the PasswordInput component', () => {
