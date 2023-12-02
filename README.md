@@ -1,7 +1,6 @@
 # Password Component
 
-This is a password validator component developed as a Take Home Assessment for Qventus.
-
+This is a password validator component.
 
 ## Tech Stack
 
