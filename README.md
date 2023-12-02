@@ -47,7 +47,7 @@ Now open [http://localhost:3000](http://localhost:3000) with your browser to see
 
 ## Demo
 
-Here is a DEMO[https://password-validator-rosy.vercel.app/] for testings!
+Here is a [DEMO](https://password-validator-rosy.vercel.app/) for testings!
 
 ## Adding validations
 
